@@ -1,3 +1,6 @@
 [submodule "api-service"]
 	path = api-service
 	url = git@github.com:muhammadfajri-student-devs/notes-api-cdk.git
+[submodule "frontend-service"]
+	path = frontend-service
+	url = git@github.com:muhammadfajri-student-devs/notes-ui-serverless.git
