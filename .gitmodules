@@ -1,0 +1,3 @@
+[submodule "api-service"]
+	path = api-service
+	url = git@github.com:muhammadfajri-student-devs/notes-api-cdk.git
