@@ -3,7 +3,7 @@
 - Front-End Service: https://github.com/muhammadfajri-student-devs/notes-ui-serverless
 - API Service: https://github.com/muhammadfajri-student-devs/notes-api-cdk
 
-> *Note*:
+> **Note**
 > Lihat [bagian catatan](#catatan-tambahan) untuk mengetahui lebih lanjut
 > mengenai database
 
@@ -33,4 +33,4 @@ Stack:
 - Kode yang digunakan untuk mendefinisikan tabel pada DynamoDB terdapat
   [disini](https://github.com/muhammadfajri-student-devs/notes-api-cdk/blob/main/lib/notes-api-cdk-stack.ts#L60)
 - Kode yang digunakan untuk mengonfigurasi tabel dan database DynamoDB terdapat
-  [disini](https://github.com/muhammadfajri-student-devs/notes-api-cdk/blob/main/config/dev-stage-props.ts#L21) atau [disini (stage production)](https://github.com/muhammadfajri-student-devs/notes-api-cdk/blob/main/config/prod-stage-props.ts#L21)
+  [disini (stage development)](https://github.com/muhammadfajri-student-devs/notes-api-cdk/blob/main/config/dev-stage-props.ts#L21) atau [disini (stage production)](https://github.com/muhammadfajri-student-devs/notes-api-cdk/blob/main/config/prod-stage-props.ts#L21)
