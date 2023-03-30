@@ -3,7 +3,7 @@
 - Front-End Service: https://github.com/muhammadfajri-student-devs/notes-ui-serverless
 - API Service: https://github.com/muhammadfajri-student-devs/notes-api-cdk
 
-> **Note**
+> **Note** </br>
 > Lihat [bagian catatan](#catatan-tambahan) untuk mengetahui lebih lanjut
 > mengenai database
 
